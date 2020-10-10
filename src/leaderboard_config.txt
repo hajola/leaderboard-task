@@ -1,0 +1,5 @@
+[DEFAULT]
+; The minimum number of events an user needs to be considered for the leaderboard
+min_number_of_events = 15
+; comment here
+number_of_days_to_count = 30
